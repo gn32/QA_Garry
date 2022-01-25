@@ -6,3 +6,7 @@
 ## Hello World from Garry
 ## This is an initial commit.
 
+
+## Useful links-
+https://www.youtube.com/watch?v=9QC09eEfBBw
+https://www.guru99.com/all-about-quality-assurance.html
